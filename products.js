@@ -1,0 +1,1 @@
+// JavaScript for product filtering and display
